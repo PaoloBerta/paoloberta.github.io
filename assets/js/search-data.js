@@ -511,14 +511,14 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("https://www.dropbox.com/scl/fi/383cfpljmwxai26sclwaz/CV_PaoloBerta_Eng.pdf?rlkey=jz3swozsn0pgusimm4fn11hna&st=r7mhq2px&dl=1", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%70%61%6F%6C%6F.%62%65%72%74%61@%75%6E%69%6D%69%62.%69%74", "_blank");
         },
       },{
         id: 'social-inspire',
