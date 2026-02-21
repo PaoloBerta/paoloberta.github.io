@@ -23,6 +23,7 @@ baseurl:
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
+cv_pdf: https://www.dropbox.com/scl/fi/383cfpljmwxai26sclwaz/CV_PaoloBerta_Eng.pdf?rlkey=jz3swozsn0pgusimm4fn11hna&st=r7mhq2px&dl=1
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -279,8 +280,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Berta]
+  first_name: [Paolo]
 
   style: apa
   locale: en
