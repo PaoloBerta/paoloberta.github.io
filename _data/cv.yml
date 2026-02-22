@@ -1,115 +1,99 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Paolo Berta
+  label: Full Professor of Public Economics
+  email: paolo.berta@unimib.it
+  location: Milan, Italy
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Full Professor of Public Economics at the Department of Statistics and Quantitative Methods, University of Milano-Bicocca. My research focuses on health economics, statistical evaluation of healthcare systems, policy evaluation, and the application of modern econometric and machine learning methods to administrative data.
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: paolo_berta
     - network: GitHub
-      username: example
+      username: PaoloBeta
     - network: LinkedIn
-      username: example
+      username: Paolo Berta
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Department of Statistics and Quantitative Methods
+    city: Milan
+    region: Lombardy
+    postalCode: 20126
+    countryCode: IT
 
   sections:
+   Current Position:
+      - company: University of Milano-Bicocca
+        position: Full Professor of Public Economics (sector 13/ECON-03)
+        location: Milan, Italy
+        start_date: 2025-05
+        summary: Department of Statistics and Quantitative Methods.
+        highlights:
+          - Coordinator of the Bachelor Program in "Statistics and Information Management" (since October 2025)
+          - Deputy Coordinator of the PhD Program in Public Health, Epidemiology, Statistics, and Economics (since November 2023)
+    Previous Academic Positions:
+      - company: University of Milano-Bicocca
+        position: Associate Professor of Social Statistics (sector 13-D3)
+        location: Milan, Italy
+        start_date: 2022-11
+        end_date: 2025-05
+
+      - company: University of Milano-Bicocca
+        position: Tenure-track Researcher in Social Statistics (sector 13-D3)
+        location: Milan, Italy
+        start_date: 2019-11
+        end_date: 2022-10
+
+      - company: University of Milano-Bicocca
+        position: Type A Researcher in Statistics (sector 13-D1)
+        location: Milan, Italy
+        start_date: 2014-06
+        end_date: 2019-05
+        
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Brunel University London
+        location: London, UK
+        area: Statistics Evaluation of Quality in Healthcare
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2018
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Milano-Bicocca
+        location: Milan, Italy
+        area: Healthcare Statistics
+        studyType: Master's Degree
+        start_date: 2003
+      
+      - institution: University of Padua
+        location: Padua, Italy
+        area: Demographic and Social Statistical Sciences
+        studyType: Bachelor's Degree
+        start_date: 1999
+       
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+       National Scientific Qualification:
+      - title: Qualification for Full Professor in sector 13/A3 Public Finance
+        date: 2023-06
+        awarder: Italian Ministry of University and Research
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - title: Qualification for Associate Professor in sector 13/A3 Public Finance
+        date: 2018-07
+        awarder: Italian Ministry of University and Research
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - title: Qualification for Associate Professor in sector 13/D3 Demography and Social Statistics
+        date: 2018-07
+        awarder: Italian Ministry of University and Research
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+    Bibliometric Profile:
+      - title: Scopus
+        date: 2024-12-04
+        summary: "ID: 57190579633 — H-Index: 10 — Documents: 28"
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - title: Web of Science
+        date: 2024-12-04
+        summary: "ID: HGA-5830-2022 — H-Index: 9 — Documents: 29"
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: ORCID
+        summary: "ID: 0000-0003-0984-4288"
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -142,48 +126,51 @@ cv:
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Languages:
-      - name: German
+ Languages:
+      - name: Italian
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: French
+        summary: "Fluent"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Membership in Scientific Societies:
+      - name: AIES — Italian Association for Health Economics
+        date: 2023
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Laboratory for Management and Healthcare — Scuola Superiore Sant'Anna, Pisa
+        date: 2019
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: HEDG — Health Econometrics and Data Group, University of York
+        date: 2018
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    - name: Age-it — Ageing Well in an Ageing Society (PNRR)
+        summary: Task leader for the task "Impact evaluation of discharge planning on continuity of care, patient outcomes, and hospital quality" within the work package coordinated by Prof. Aleksandra Torbica (Bocconi University). Analyzes the economic and social impact of hospital discharge planning for patients over 65.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Task leader
+          - Focus on efficiency, effectiveness, and appropriateness
+        start_date: 2023
+        end_date: 2026
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: RETIN — Responses To Inequalities in Non-communicable Diseases (PRIN)
+        summary: Scientific Coordinator of the Bicocca Unit. Develops a standardized model to identify chronic diseases, measuring prevalence, treatment models, resource utilization, costs, and health outcomes in relation to socio-economic conditions across Tuscany, Lombardy, and Sicily.
+        highlights:
+          - Scientific Coordinator for Bicocca unit
+          - Collaboration with Scuola Superiore Sant'Anna (Pisa) and University of Palermo
+        start_date: 2023
+        end_date: 2025
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: MIGHTY — MIGrants' HealTh and healthcare access in ItalY (PRIN)
+        summary: Provides updated knowledge on migrant health, unmet needs, and healthcare access. Offers policymakers a comprehensive tool to consult data on migrant health and key indicators.
+        start_date: 2023
+        end_date: 2025
+
+      - name: Collaboration Agreement with the European Commission Joint Research Center
+        summary: Scientific Coordinator for counterfactual impact evaluation of public policies. Aims to improve understanding and application of Counterfactual Impact Evaluation (CIE) to assess public policy effectiveness.
+        start_date: 2024
+        end_date: 2026
+
+   
