@@ -7,157 +7,126 @@ cv:
   summary: Full Professor of Public Economics at the Department of Statistics and Quantitative Methods, University of Milano-Bicocca. My research focuses on health economics, statistical evaluation of healthcare systems, policy evaluation, and the application of modern econometric and machine learning methods to administrative data.
 
   social_networks:
-    - network: X
-      username: paolo_berta
-    - network: GitHub
-      username: PaoloBeta
     - network: LinkedIn
-      username: Paolo Berta
+      username: example
 
   address:
     street: Department of Statistics and Quantitative Methods
     city: Milan
     region: Lombardy
-    postalCode: 20126
+    postalCode: "20126"
     countryCode: IT
 
   sections:
-   Current Position:
+    Experience:
       - company: University of Milano-Bicocca
         position: Full Professor of Public Economics (sector 13/ECON-03)
         location: Milan, Italy
-        start_date: 2025-05
+        start_date: "2025-05"
         summary: Department of Statistics and Quantitative Methods.
         highlights:
-          - Coordinator of the Bachelor Program in "Statistics and Information Management" (since October 2025)
-          - Deputy Coordinator of the PhD Program in Public Health, Epidemiology, Statistics, and Economics (since November 2023)
-    Previous Academic Positions:
+          - "Coordinator of the Bachelor Program in Statistics and Information Management (since October 2025)"
+          - "Deputy Coordinator of the PhD Program in Public Health, Epidemiology, Statistics, and Economics (since November 2023)"
+
       - company: University of Milano-Bicocca
         position: Associate Professor of Social Statistics (sector 13-D3)
         location: Milan, Italy
-        start_date: 2022-11
-        end_date: 2025-05
+        start_date: "2022-11"
+        end_date: "2025-05"
 
       - company: University of Milano-Bicocca
         position: Tenure-track Researcher in Social Statistics (sector 13-D3)
         location: Milan, Italy
-        start_date: 2019-11
-        end_date: 2022-10
+        start_date: "2019-11"
+        end_date: "2022-10"
 
       - company: University of Milano-Bicocca
         position: Type A Researcher in Statistics (sector 13-D1)
         location: Milan, Italy
-        start_date: 2014-06
-        end_date: 2019-05
-        
+        start_date: "2014-06"
+        end_date: "2019-05"
+
     Education:
       - institution: Brunel University London
         location: London, UK
         area: Statistics Evaluation of Quality in Healthcare
         studyType: PhD
-        start_date: 2018
+        start_date: "2018"
+        highlights:
+          - "Thesis: Statistics Evaluation of Quality in Healthcare"
 
       - institution: University of Milano-Bicocca
         location: Milan, Italy
         area: Healthcare Statistics
-        studyType: Master's Degree
-        start_date: 2003
-      
+        studyType: "Master's Degree"
+        start_date: "2003"
+        highlights:
+          - "Thesis: Using Data Mining for Pharmaceutical Expenditure Analysis"
+
       - institution: University of Padua
         location: Padua, Italy
         area: Demographic and Social Statistical Sciences
-        studyType: Bachelor's Degree
-        start_date: 1999
+        studyType: "Bachelor's Degree"
+        start_date: "1999"
+        highlights:
+          - "Thesis: From the Republic of Venice to the Kingdom of Italy: Quality of Demographic Statistics in Veneto"
 
+    Awards:
+      - title: Qualification for Full Professor in sector 13/A3 Public Finance
+        date: "2023-06"
+        awarder: Italian Ministry of University and Research
 
-    Bibliometric Profile:
-      - title: Scopus
-        date: 2024-12-04
-        summary: "ID: 57190579633 — H-Index: 10 — Documents: 28"
+      - title: Qualification for Associate Professor in sector 13/A3 Public Finance
+        date: "2018-07"
+        awarder: Italian Ministry of University and Research
 
-      - title: Web of Science
-        date: 2024-12-04
-        summary: "ID: HGA-5830-2022 — H-Index: 9 — Documents: 29"
-
-      - title: ORCID
-        summary: "ID: 0000-0003-0984-4288"
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: Qualification for Associate Professor in sector 13/D3 Demography and Social Statistics
+        date: "2018-07"
+        awarder: Italian Ministry of University and Research
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
- Languages:
-      - name: Italian
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-      - name: French
-        summary: "Fluent"
-
-    Membership in Scientific Societies:
-      - name: AIES — Italian Association for Health Economics
-        date: 2023
-
-      - name: Laboratory for Management and Healthcare — Scuola Superiore Sant'Anna, Pisa
-        date: 2019
-
-      - name: HEDG — Health Econometrics and Data Group, University of York
-        date: 2018
+      - name: Bibliometric Profile (as of December 2024)
+        level: ""
+        keywords: "Scopus ID 57190579633 H-Index 10 Documents 28 | Web of Science ID HGA-5830-2022 H-Index 9 Documents 29 | ORCID 0000-0003-0984-4288"
 
     Projects:
-    - name: Age-it — Ageing Well in an Ageing Society (PNRR)
-        summary: Task leader for the task "Impact evaluation of discharge planning on continuity of care, patient outcomes, and hospital quality" within the work package coordinated by Prof. Aleksandra Torbica (Bocconi University). Analyzes the economic and social impact of hospital discharge planning for patients over 65.
+      - name: "Age-it: Ageing Well in an Ageing Society (PNRR 2023-2026)"
+        summary: "Task leader for the task Impact evaluation of discharge planning on continuity of care, patient outcomes, and hospital quality. Coordinated by Prof. Aleksandra Torbica, Bocconi University."
         highlights:
           - Task leader
-          - Focus on efficiency, effectiveness, and appropriateness
-        start_date: 2023
-        end_date: 2026
+          - Focus on efficiency, effectiveness, and appropriateness of hospital discharge planning for patients over 65
 
-      - name: RETIN — Responses To Inequalities in Non-communicable Diseases (PRIN)
-        summary: Scientific Coordinator of the Bicocca Unit. Develops a standardized model to identify chronic diseases, measuring prevalence, treatment models, resource utilization, costs, and health outcomes in relation to socio-economic conditions across Tuscany, Lombardy, and Sicily.
+      - name: "RETIN: Responses To Inequalities in Non-communicable Diseases (PRIN 2023-2025)"
+        summary: Scientific Coordinator of the Bicocca Unit. Develops a standardized model to identify chronic diseases across Tuscany, Lombardy, and Sicily.
         highlights:
           - Scientific Coordinator for Bicocca unit
           - Collaboration with Scuola Superiore Sant'Anna (Pisa) and University of Palermo
-        start_date: 2023
-        end_date: 2025
 
-      - name: MIGHTY — MIGrants' HealTh and healthcare access in ItalY (PRIN)
-        summary: Provides updated knowledge on migrant health, unmet needs, and healthcare access. Offers policymakers a comprehensive tool to consult data on migrant health and key indicators.
-        start_date: 2023
-        end_date: 2025
+      - name: "MIGHTY: MIGrants HealTh and healthcare access in ItalY (PRIN 2023-2025)"
+        summary: Provides updated knowledge on migrant health, unmet needs, and healthcare access in Italy.
 
-      - name: Collaboration Agreement with the European Commission Joint Research Center
-        summary: Scientific Coordinator for counterfactual impact evaluation of public policies. Aims to improve understanding and application of Counterfactual Impact Evaluation (CIE) to assess public policy effectiveness.
-        start_date: 2024
-        end_date: 2026
+      - name: "Collaboration Agreement with the European Commission Joint Research Center (2024-2026)"
+        summary: Scientific Coordinator for counterfactual impact evaluation of public policies.
 
-   
+    Certificates:
+      - name: "AIES - Italian Association for Health Economics"
+        date: "2023"
+        issuer: Membership
+
+      - name: "Laboratory for Management and Healthcare - Scuola Superiore Sant'Anna, Pisa"
+        date: "2019"
+        issuer: Membership
+
+      - name: "HEDG - Health Econometrics and Data Group, University of York"
+        date: "2018"
+        issuer: Membership
+
+    Languages:
+      - name: Italian
+        summary: Native speaker
+
+      - name: English
+        summary: Fluent
+
+      - name: French
+        summary: Working knowledge
