@@ -24,9 +24,9 @@ latest_posts:
   limit: 3
 ---
 
-I am Full Professor of Public Economics at the [Department of Statistics and Quantitative Methods](https://www.unimib.it), University of Milano-Bicocca, Italy.
+I am Full Professor of Public Economics at the [Department of Statistics and Quantitative Methods]([https://www.unimib.it](https://www.dismeq.unimib.it/it)), University of Milano-Bicocca, Italy.
 
 My research focuses on health economics, statistical evaluation of healthcare systems, policy evaluation, and the application of modern econometric and statistical methods to administrative data. A crucial aspect of my work is the use of administrative data at regional and national levels, allowing me to leverage population-level data while overcoming the limitations of survey-based datasets.
 
 My research has developed through competitive grants, institutional assignments, and independently initiated projects with regional, national, and international significance. Current projects include [Age-it](https://ageit.eu) (PNRR) and Responses To Inequalities in Non-communicable diseases: measurement and management challenges through an
-inter-regional perspectives RETIN (PRIN).
+inter-regional perspectives [RETIN](https://prin-retin.github.io).
