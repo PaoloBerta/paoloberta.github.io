@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Full Professor of Public Economics - <a href='https://www.unimib.it'>University of Milano-Bicocca</a>
+subtitle: <a href='https://www.unimib.it'>University of Milano-Bicocca</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3
 ---
 
-I am Full Professor of Public Economics at the [Department of Statistics and Quantitative Methods]([https://www.unimib.it](https://www.dismeq.unimib.it/it)), University of Milano-Bicocca, Italy.
+I am Full Professor of Public Economics at the [Department of Statistics and Quantitative Methods](https://www.dismeq.unimib.it/it), University of Milano-Bicocca, Italy.
 
 My research focuses on health economics, statistical evaluation of healthcare systems, policy evaluation, and the application of modern econometric and statistical methods to administrative data. A crucial aspect of my work is the use of administrative data at regional and national levels, allowing me to leverage population-level data while overcoming the limitations of survey-based datasets.
 
