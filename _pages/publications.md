@@ -13,9 +13,12 @@ nav_order: 2
 <div class="publications">
 
 <h2>Main Publications</h2>
-{% bibliography --query @*[keywords!=selected] %}
+{% bibliography --query @*[keywords=selected] %}
 
 <h2>Other Publications</h2>
-{% bibliography --query @*[keywords=selected] %}
+{% bibliography --query @*[keywords=others] %}
+
+<h2>Book chapters</h2>
+{% bibliography --query @*[keywords=book] %}
 
 </div>
