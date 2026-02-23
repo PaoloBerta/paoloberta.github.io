@@ -500,18 +500,18 @@ ninja.data = [{
           window.open("mailto:%70%61%6F%6C%6F.%62%65%72%74%61@%75%6E%69%6D%69%62.%69%74", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/paolo-berta-493a7348", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://twitter.com/paolo_berta", "_blank");
         },
       },{
         id: 'social-scholar',
