@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Publications by categories in reversed chronological order, distinguished by selected papers, other papers, and book chapters.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 <!-- _pages/publications.md -->
 <!-- Bibsearch Feature -->
@@ -13,7 +13,7 @@ nav_order: 2
 <div class="publications">
 
 <h2>Main Publications</h2>
-{% bibliography --query @*[keywords=selected] %}
+{% bibliography --query @*[keywords=relevant] %}
 
 <h2>Other Publications</h2>
 {% bibliography --query @*[keywords=others] %}
