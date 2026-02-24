@@ -15,7 +15,7 @@ The overall objective of Age-It is to provoke a quantum leap in Italy’s contri
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Age_it_Vision.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -45,7 +45,7 @@ The thematic challenges are systematically integrated by three additional cross-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Age_it_Challenges.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
