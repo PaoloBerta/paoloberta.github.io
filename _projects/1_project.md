@@ -1,25 +1,17 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Age-It
+description: Ageing Well in an Ageing Society
 img: assets/img/logo_ageIt.png
 importance: 1
 category: work
 related_publications: true
 ---
+Age-It: Ageing Well in an Ageing Society
+A novel public-private alliance to generate socioeconomic, biomedical and technological solutions for an inclusive Italian ageing society
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Age-It Vision
+The overall objective of Age-It is to provoke a quantum leap in Italy’s contribution to research on ageing, making it a leader in research as well as in strategic European and global value chains. Applying a holistic, interdisciplinary, and problem-solving approach, Age-It overcomes the fragmentation of different perspectives on ageing, involving a critical mass of partners including research and educational institutions, care providers and civil society associations, businesses and industries
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +36,12 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The 10 challenges of Age-It
+Age-It identifies the ten most relevant challenges to allow individuals to age well and to build an inclusive ageing society as the foundation of the Spoke infrastructure, which consists of six thematic (horizontal) challenges and four cross-integration (vertical) challenges.
+
+The project originates from the demographic megatrends that are shaping our society: the first challenge is thus the understanding of the micro and macro demographic drivers of ageing adopting a Data Science approach to decision-making (#1).
+Addressing and facing population ageing necessitates a focus on pivotal thematic challenges: improving our understanding of the biology of ageing(#2), of the clinical and functional factors related to multimorbidity (#3), of the life course trajectories of active and healthy ageing (#4), and of the world of care provision (#5). These challenges are intertwined with the Silver Economy (i.e., work, participation and welfare at older ages, but also new consumption and activity models) (#6) and with the political and cultural dimensions of an ageing society (#7).
+The thematic challenges are systematically integrated by three additional cross-integration challenges: The importance of interventions and technologies to reduce the burden of age-related diseases, disorders and disabilities (#8), the technological developments towards meeting the (new) needs of older people (#9), as well as the overall mainstreaming and re-thinking of ageing-related policy-making (#10).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -60,22 +55,13 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The 3 Theoretical Principles of Age-It
+Age-It stems from three cross-cutting concepts to address ageing, which necessitate a holistic, interdisciplinary, and problem-solving approach. This programme acknowledges the dynamic nature of ageing through a holistic view by adopting a life course approach at the individual and family level and for society as a whole. Three life course principles in particular provide the foundation of our holistic approach:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+Cumulative contingencies (previous experiences shape a person’s current status);
+Linked lives (events in one domain of a person’s life influence all of their other domains);
+Historical time period (the period in which individuals live moderates the timing and sequencing of key life course transitions).
+Micro-level (individuals), meso-level (e.g., households, care providers, volunteering organizations, and firms) and macro-level (society, institutions) are all pivotal.
 ```
 
 {% endraw %}
