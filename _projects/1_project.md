@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Age-It: Ageing Well in an Ageing Society
-description: -
+title: Age-It - Ageing Well in an Ageing Society
+description: 
 img: assets/img/logo_ageIt.png
 importance: 1
 category: work
