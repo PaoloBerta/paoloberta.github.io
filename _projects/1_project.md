@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Age-It
-description: Ageing Well in an Ageing Society
+title: Age-It: Ageing Well in an Ageing Society
+description: 
 img: assets/img/logo_ageIt.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-# Age-It: Ageing Well in an Ageing Society
+# 
 
 A novel public-private alliance to generate socioeconomic, biomedical and technological solutions for an inclusive Italian ageing society.
 
@@ -44,7 +44,7 @@ The thematic challenges are systematically integrated by three additional cross-
   </div>
 </div>
 <div class="caption">
-  You can also have artistically styled 2/3 + 1/3 images, like these.
+  Age-it - Cross integration (vertical) challanges. Source: https://ageit.eu/wp/en/v-i-s-i-o-n/
 </div>
 
 ## The 3 Theoretical Principles of Age-It
