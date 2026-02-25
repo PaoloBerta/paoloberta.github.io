@@ -8,7 +8,6 @@ category: work
 related_publications: true
 ---
 
-# 
 
 A novel public-private alliance to generate socioeconomic, biomedical and technological solutions for an inclusive Italian ageing society.
 
@@ -18,7 +17,7 @@ The overall objective of Age-It is to provoke a quantum leap in Italy’s contri
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Age_it_Vision.png" title="Age-It (photo 3)" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/Age_it_Vision.png" title="Age-It Vision" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -35,12 +34,9 @@ Addressing and facing population ageing necessitates a focus on pivotal thematic
 
 The thematic challenges are systematically integrated by three additional cross-integration challenges: the importance of interventions and technologies to reduce the burden of age-related diseases, disorders and disabilities (#8), the technological developments towards meeting the (new) needs of older people (#9), as well as the overall mainstreaming and re-thinking of ageing-related policy-making (#10).
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/Age_it_Challenges.png" title="Age-It challenges" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="Age-It (photo 4)" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
