@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RETIN
-description: Responses To Inequalities in Non-communicable diseases: measurement and management challenges through an inter-regional perspectives
+description: "Responses To Inequalities in Non-communicable diseases: measurement and management challenges through an inter-regional perspectives"
 img: assets/img/logo_retin.png
 importance: 2
 category: work
@@ -18,7 +18,7 @@ The RETIN project aims at conducting applied research on chronic diseases, treat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/retin-img.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
