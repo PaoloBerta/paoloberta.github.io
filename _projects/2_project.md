@@ -5,7 +5,7 @@ description: "Responses To Inequalities in Non-communicable diseases: measuremen
 img: assets/img/logo_retin.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 The RETIN project aims at conducting applied research on chronic diseases, treatment patterns, costs, and outcomes. The RETIN project will analyze chronic diseases variations in terms of geography and socio-demographic conditions by comparing three among the biggest Italian regions, namely Tuscany, Lombardy, and Sicily. The RETIN project will focus on four key areas:
