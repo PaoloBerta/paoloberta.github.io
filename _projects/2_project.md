@@ -22,7 +22,7 @@ The RETIN project aims at conducting applied research on chronic diseases, treat
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    WHO Global NCD Target
 </div>
 
 
