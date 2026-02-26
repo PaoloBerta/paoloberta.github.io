@@ -1,40 +1,21 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: RETIN
+description: Responses To Inequalities in Non-communicable diseases: measurement and management challenges through an inter-regional perspectives
 img: assets/img/logo_retin.png
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The RETIN project aims at conducting applied research on chronic diseases, treatment patterns, costs, and outcomes. The RETIN project will analyze chronic diseases variations in terms of geography and socio-demographic conditions by comparing three among the biggest Italian regions, namely Tuscany, Lombardy, and Sicily. The RETIN project will focus on four key areas:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+1) Identification of common methods for a detailed examination of the current burden of chronicity through the use of administrative care databases and other publicly available information.
+2) Comparison of differences within and between the three regions.
+3) Analysis of socio-economic and contextual determinants on prevalence, costs, and outcome.
+4) Lesson learnt and policy summary with the aim of building a common template for the adoption of a uniform definition of NCDs at the national level.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -60,22 +41,4 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Main results are collected on a dashboard which can be found here: https://prin-retin.github.io/
