@@ -428,9 +428,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-retin",
+          title: 'RETIN',
+          description: "Responses To Inequalities in Non-communicable diseases: measurement and management challenges through an inter-regional perspectives",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
