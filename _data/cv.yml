@@ -85,11 +85,10 @@ cv:
         awarder: Italian Ministry of University and Research
 
     Skills:
-      - name: Bibliometric Profile (as of December 2024)
-        highlights:
-          - "Scopus ID [57190579633](https://www.scopus.com/authid/detail.uri?authorId=57190579633)"
-          - "Web of Science ID [HGA-5830-2022](https://www.webofscience.com/wos/author/record/HGA-5830-2022)"
-          - "ORCID [0000-0003-0984-4288](https://orcid.org/0000-0003-0984-4288)"
+      - name: 'Bibliometric Profile (as of December 2024):<br>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=57190579633">Scopus ID 57190579633</a><br>
+    <a href="https://www.webofscience.com/wos/author/record/HGA-5830-2022">Web of Science ID HGA-5830-2022</a><br>
+    <a href="https://orcid.org/0000-0003-0984-4288">ORCID 0000-0003-0984-4288</a>'
 
     Projects:
       - name: "Age-it: Ageing Well in an Ageing Society (PNRR 2023-2026)"
