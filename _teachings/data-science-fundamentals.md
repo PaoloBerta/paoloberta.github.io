@@ -33,8 +33,8 @@ This course provides a comprehensive introduction to foundational aspects of sta
 
 Estimate interval and methods for determining the confidence interval. The pivotal quantity. Statistical verification of hypotheses. Significance tests. The main statistical tests: the Z test, the T test, the chi-square test, the F test. The basis of Neyman-Pearson's theory. Error of first and second species. The most powerful test is Neyman-Pearson's lemma. The most uniformly powerful tests. The tests based on the relationship of likelihood. A series of tests to compare different populations including the Analysis of Variance (ANOVA). Sampling from finite populations. Estimation of the total, average and variance of a continuous variable. Estimate of the relative frequency of a binary variable. Simple random sampling. The stratified sampling
 
-- Estimate interval and methods for determining the confidence interval
-- The pivotal quantit
+- Estimation theory 
+- The pivotal quantity and confidence intervals
 - Significance tests
 - The basis of Neyman-Pearson's theory
 - The main statistical tests: the Z test, the T test, the chi-square test, the F test
