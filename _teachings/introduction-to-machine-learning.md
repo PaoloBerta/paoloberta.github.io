@@ -4,7 +4,7 @@ title: Statistical evaluation of healthcare systems
 description: The objective of the course concerns the description of health systems models and statistical evaluation in this field, with particular reference to the Italian case. 
 instructor: Prof. Paolo Berta
 year: 2026
-term: Spring
+term: May-June
 location: Bulding U6 and U7
 time: see University website
 course_id: intro-machine-learning
