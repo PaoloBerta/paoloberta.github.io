@@ -473,9 +473,9 @@ ninja.data = [{
           description: "This course covers the foundational aspects of statistical inference, including sampling generation, estimators and their main properties, confindence intervals, and hyotesis testing. Students will learn practical skills for working with the basis of statistics.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+            },},{id: "teachings-statistical-evaluation-of-healthcare-systems",
+          title: 'Statistical evaluation of healthcare systems',
+          description: "The objective of the course concerns the description of health systems models and statistical evaluation in this field, with particular reference to the Italian case.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
