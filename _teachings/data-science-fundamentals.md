@@ -1,97 +1,43 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
-schedule:
-  - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+title: Statistical Inference
+description: This course covers the foundational aspects of statistical inference, including sampling generation, estimators and their main properties, confindence intervals, and hyotesis testing. Students will learn practical skills for working with the basis of statistics.
+instructor: Prof. Paolo Berta
+year: 2026
+term: October-January
+location: Bulding U6
+time: see University website
+course_id: stat-inference
 
-  - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
-  - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
 ---
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+This course provides a comprehensive introduction to foundational aspects of statistical inference. Students will be able to:
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+- apply the techniques for the precise estimation and interval of the parameters of the distribution of a random variable
+- construct statistical tests to verify hypothesis about the distribution of a normal random variable and identify appropriate approximations in the case of any random variable
+- comparing tow or more population in terms of their expected mean with two-sample test and one-way ANOVA
 
 ## Prerequisites
 
-- Basic programming knowledge (preferably in Python)
+- Analysis
 - Introductory statistics
-- Comfort with basic algebra
+- Basic probability theory
 
 ## Textbooks
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+- Piccolo, D. (2000). Statistica, Bologna. Il Mulino.
 
-## Grading
+## Detailed program
 
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+Estimate interval and methods for determining the confidence interval. The pivotal quantity. Statistical verification of hypotheses. Significance tests. The main statistical tests: the Z test, the T test, the chi-square test, the F test. The basis of Neyman-Pearson's theory. Error of first and second species. The most powerful test is Neyman-Pearson's lemma. The most uniformly powerful tests. The tests based on the relationship of likelihood. A series of tests to compare different populations including the Analysis of Variance (ANOVA). Sampling from finite populations. Estimation of the total, average and variance of a continuous variable. Estimate of the relative frequency of a binary variable. Simple random sampling. The stratified sampling
+
+- Estimate interval and methods for determining the confidence interval
+- The pivotal quantit
+- Significance tests
+- The basis of Neyman-Pearson's theory
+- The main statistical tests: the Z test, the T test, the chi-square test, the F test
+- A series of tests to compare different populations including the Analysis of Variance (ANOVA)
+
+  
