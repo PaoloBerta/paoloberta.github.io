@@ -2,11 +2,11 @@
 layout: course
 title: Statistical evaluation of healthcare systems
 description: The objective of the course concerns the description of health systems models and statistical evaluation in this field, with particular reference to the Italian case. 
-instructor: Prof. Example
-year: 2023
-term: Fall
-location: Main Campus, Room 301
-time: Tuesdays and Thursdays, 10:00-11:30 AM
+instructor: Prof. Paolo Berta
+year: 2026
+term: Spring
+location: Bulding U6 and U7
+time: see University website
 course_id: intro-machine-learning
 
 ---
