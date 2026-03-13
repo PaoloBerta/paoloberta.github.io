@@ -1,9 +1,47 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Health Economics":
+  url: https://onlinelibrary.wiley.com/journal/10991050
+  color: "#0072b2"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"J Health Econ":
+  url: https://www.sciencedirect.com/journal/journal-of-health-economics
+  color: "#0072b2"
 
-"Vision":
-  color: "#009f36"
+"Health Policy":
+  url: https://www.sciencedirect.com/journal/health-policy
+  color: "#009e73"
+
+"Soc Sci Med":
+  url: https://www.sciencedirect.com/journal/social-science-and-medicine
+  color: "#d55e00"
+
+"Eur J Health Econ":
+  url: https://link.springer.com/journal/10198
+  color: "#cc79a7"
+
+"Health Serv Res":
+  url: https://onlinelibrary.wiley.com/journal/14756773
+  color: "#56b4e9"
+
+"Value Health":
+  url: https://www.valueinhealthjournal.com/
+  color: "#e69f00"
+
+"J R Stat Soc":
+  url: https://rss.onlinelibrary.wiley.com/
+  color: "#0072b2"
+
+"BMJ":
+  url: https://www.bmj.com/
+  color: "#c0392b"
+
+"Lancet":
+  url: https://www.thelancet.com/
+  color: "#8b0000"
+
+"BMC Health Serv Res":
+  url: https://bmchealthservres.biomedcentral.com/
+  color: "#27ae60"
+
+"Int J Health Econ Manag":
+  url: https://link.springer.com/journal/10754
+  color: "#8e44ad"
