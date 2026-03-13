@@ -12,7 +12,7 @@ profile:
     <p>University of Milano-Bicocca</p>
     <p>Viale dell'Innovazione, Milan, Italy</p>
     <p>paolo.berta@unimib.it</p>
-selected_papers: true
+selected_papers: false
 social: true
 announcements:
   enabled: true
