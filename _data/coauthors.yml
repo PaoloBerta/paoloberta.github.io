@@ -1,34 +1,65 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"vittadini":
+  - firstname: ["Giorgio", "G.", "Giorgio V."]
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"turati":
+  - firstname: ["Gilberto", "G."]
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"lovaglio":
+  - firstname: ["Pietro Giorgio", "P. G.", "Pietro G."]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"martini":
+  - firstname: ["Gianmaria", "G."]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"verzillo":
+  - firstname: ["Stefano", "S."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"angelici":
+  - firstname: ["Marta", "M."]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"seghieri":
+  - firstname: ["Chiara", "C."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"vinciotti":
+  - firstname: ["Veronica", "V."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"garriga":
+  - firstname: ["Anna", "A."]
+
+"persico":
+  - firstname: ["Chiara", "C."]
+
+"peluso":
+  - firstname: ["Alina", "A."]
+
+"borgonovo":
+  - firstname: ["Fabio", "F."]
+
+"cannas":
+  - firstname: ["Massimo", "M."]
+
+"levaggi":
+  - firstname: ["Rosella", "R."]
+
+"moscone":
+  - firstname: ["Francesco", "F."]
+
+"mullahy":
+  - firstname: ["John", "J."]
+
+"paruolo":
+  - firstname: ["Paolo", "P."]
+
+"ingrassia":
+  - firstname: ["Salvatore", "S."]
+
+"bratti":
+  - firstname: ["Massimiliano", "M."]
+
+"callea":
+  - firstname: ["Giuditta", "G."]
+
+"nuti":
+  - firstname: ["Sabina", "S."]
+
+"costa-font":
+  - firstname: ["Joan", "J."]
