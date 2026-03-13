@@ -59,7 +59,12 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-age-it-ageing-well-in-an-ageing-society",
+      },{id: "news-call-for-papers-empirical-health-economics-workshop-ehew2026",
+          title: 'Call for Papers — Empirical Health Economics Workshop (EHEW2026)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-age-it-ageing-well-in-an-ageing-society",
           title: 'Age-It - Ageing Well in an Ageing Society',
           description: "",
           section: "Projects",handler: () => {
