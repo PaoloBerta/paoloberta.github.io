@@ -81,6 +81,11 @@ ninja.data = [{
           description: "Responses To Inequalities in Non-communicable diseases: measurement and management challenges through an inter-regional perspectives",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-mighty-migrants-39-health-and-healthcare-access-in-italy",
+          title: 'MIGHTY - MIGrants&amp;#39; HealTh and healthcare access in ItalY',
+          description: "A PRIN project studying migrants&#39; health, unmet needs, and access to healthcare services in Italy using administrative data and ad hoc surveys.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "teachings-statistical-inference",
           title: 'Statistical Inference',
           description: "This course covers the foundational aspects of statistical inference, including sampling generation, estimators and their main properties, confindence intervals, and hyotesis testing. Students will learn practical skills for working with the basis of statistics.",
