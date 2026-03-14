@@ -2,7 +2,7 @@
 layout: page
 title: "MIGHTY - MIGrants' HealTh and healthcare access in ItalY"
 description: "A PRIN project studying migrants' health, unmet needs, and access to healthcare services in Italy using administrative data and ad hoc surveys."
-img: assets/img/logo_mighty.png
+img:
 importance: 3
 category: work
 related_publications: false
