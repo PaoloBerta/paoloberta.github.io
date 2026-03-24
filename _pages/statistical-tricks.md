@@ -170,14 +170,15 @@ nav_order: 7
       <span class="st-card-tag">Interactive · Simulation</span>
     </a>
 
-    <div class="st-coming-soon">
+    <a href="/statistical-tricks/lln/" class="st-card" style="--card-color: #5b9cf6;">
       <div class="st-card-icon">🎲</div>
       <div class="st-card-title">Law of Large Numbers</div>
       <div class="st-card-desc">
-        Visualize how sample averages converge to the true mean as sample size increases.
+        Watch K independent running averages converge to μ as n grows.
+        Choose Bernoulli, Uniform, or Exponential and animate the convergence.
       </div>
-      <span class="st-coming-badge">Coming soon</span>
-    </div>
+      <span class="st-card-tag">Interactive · Simulation</span>
+    </a>
 
     <div class="st-coming-soon">
       <div class="st-card-icon">🔔</div>
