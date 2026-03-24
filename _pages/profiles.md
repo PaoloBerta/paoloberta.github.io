@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: Research group members and collaborators
 nav: true
-nav_order: 7
+nav_order: 8
 
 profiles:
   - align: right

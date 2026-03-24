@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /clt/
-title: CLT
+permalink: /statistical-tricks/clt/
+title: Central Limit Theorem
 description: Visualizzazione interattiva del Teorema del Limite Centrale applicato alla distribuzione di Bernoulli.
-nav: true
-nav_order: 7
+nav: false
 ---
 
 <style>
