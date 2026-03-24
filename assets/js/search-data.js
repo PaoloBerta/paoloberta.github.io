@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-clt",
-          title: "CLT",
-          description: "Visualizzazione interattiva del Teorema del Limite Centrale applicato alla distribuzione di Bernoulli.",
+        },{id: "nav-statistical-tricks",
+          title: "Statistical Tricks",
+          description: "Interactive visualizations of key statistical concepts.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/clt/";
+            window.location.href = "/statistical-tricks/";
           },
         },{id: "nav-people",
           title: "People",
